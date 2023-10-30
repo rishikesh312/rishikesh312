@@ -5,14 +5,14 @@ I'm a passionate AI developer, always curious about the intricacies of artificia
 ### 💼 Technologies & Tools:
 
 **Languages:** 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white), ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
 
 
 **AI Tools:** 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
-![Tabular](LOGO_URL_FOR_TABULAR) 
-![OpenAI GPT](LOGO_URL_FOR_OPENAI) 
+![Tabular](https://img.shields.io/badge/Tabular-8A2BE2)
+![OpenAI GPT](https://img.shields.io/badge/Tabular-8A2AD2) 
 ![FastAI](https://img.shields.io/badge/-FastAI-1DB954?logo=fastai&logoColor=white) 
 
 **Other Tools:** 
@@ -31,8 +31,7 @@ I'm a passionate AI developer, always curious about the intricacies of artificia
 
 **Other amazing stuff**
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh312&theme=tokyonight)
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikesh312)
-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikesh312)
 
 When I'm not developing AI tools or diving into code, you'll find me [a fun activity, e.g., "binging on the latest sci-fi series" or "playing my favorite video games"].
 
