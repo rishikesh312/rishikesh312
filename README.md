@@ -12,7 +12,7 @@ I'm a passionate AI developer, always curious about the intricacies of artificia
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
 ![Tabular](https://img.shields.io/badge/Tabular-8A2BE2)
-![OpenAI GPT](https://img.shields.io/badge/Tabular-8A2AD2) 
+![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-00A36C) 
 ![FastAI](https://img.shields.io/badge/-FastAI-1DB954?logo=fastai&logoColor=white) 
 
 **Other Tools:** 
