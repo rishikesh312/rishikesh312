@@ -1,4 +1,4 @@
-# Hello there, I'm Rishikesh Narayanan! 👋 ![wave gif](URL_TO_WAVING_HAND_GIF)
+# Hello there, I'm Rishikesh Narayanan! 👋 ![wave gif]([URL_TO_WAVING_HAND_GIF](https://github.com/nixin72/nixin72/blob/master/wave.gif))
 
 I'm a passionate AI developer, always curious about the intricacies of artificial intelligence, especially in crafting state-of-the-art AI tools. My journey has led me through a mosaic of programming languages, and I love exploring more each day! 🚀
 
