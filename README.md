@@ -30,9 +30,9 @@ I'm a passionate AI developer, always curious about the intricacies of artificia
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white) 
 
 **Other amazing stuff**
--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh312&theme=tokyonight)
--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikesh312&theme=tokyonight)
--![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh312&theme=tokyonight)
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikesh312&theme=tokyonight)
+- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight)
 
 
 When I'm not developing AI tools or diving into code, you'll find me [a fun activity, e.g., "binging on the latest sci-fi series" or "playing my favorite video games"].
