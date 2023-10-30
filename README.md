@@ -30,9 +30,8 @@ I'm a passionate AI developer, always curious about the intricacies of artificia
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white) 
 
 **Other amazing stuff**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh312&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikesh312&theme=tokyonight)
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight)
 
 
