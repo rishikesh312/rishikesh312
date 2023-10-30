@@ -31,9 +31,8 @@ I'm a passionate AI developer, always curious about the intricacies of artificia
 
 **Other amazing stuff**
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh312&theme=tokyonight)
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikesh312&theme=tokyonight)
-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight)
-
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikesh312)
+- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 When I'm not developing AI tools or diving into code, you'll find me [a fun activity, e.g., "binging on the latest sci-fi series" or "playing my favorite video games"].
 
