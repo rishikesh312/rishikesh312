@@ -39,4 +39,6 @@ When I'm not developing AI tools or diving into code, you'll find me [a fun acti
 
 ### 📬 Let's Connect!
 
-⭐️ From [Rishikesh](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Rishikesh](https://github.com/rishikesh312/)
+
+⭐️ From [Linkedin](https://www.linkedin.com/in/rishikesh-n-878bb8a7/)
