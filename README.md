@@ -33,8 +33,7 @@ I'm a passionate AI developer, always curious about the intricacies of artificia
  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh312&theme=tokyonight)
  - ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishikesh312&show_icons=true&theme=radical)
  
-When I'm not developing AI tools or diving into code, you'll find me [a fun activity, e.g., "binging on the latest sci-fi series" or "playing my favorite video games"].
-
+When I'm not developing AI tools or diving into code, you'll find me watching Netflix series 
 
 ### 📬 Let's Connect!
 
