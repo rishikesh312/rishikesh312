@@ -34,7 +34,7 @@ I'm a passionate AI developer, always curious about the intricacies of artificia
  - ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishikesh312&show_icons=true&theme=radical)
  
 When I'm not developing AI tools or diving into code, you'll find me watching Netflix series
-
+- ![watching Netflix](https://media.tenor.com/gDWXh_83aQgAAAAC/netflix-netflix-and-chill.gif)
 ### 📬 Let's Connect!
 
 ⭐️ From [Github](https://github.com/rishikesh312/)
