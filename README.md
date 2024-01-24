@@ -1,7 +1,7 @@
 # Hello there, I'm Rishikesh Narayanan! 👋 
 
 I'm a passionate AI developer, always curious about the intricacies of artificial intelligence, especially in crafting state-of-the-art AI tools. My journey has led me through a mosaic of programming languages, and I love exploring more each day! 🚀
-
+🌐 Check Out ![My Portfolio](https://rishikesh312.github.io/Portfolio/)
 ### 💼 Technologies & Tools:
 
 **Languages:** 
@@ -39,4 +39,4 @@ When I'm not developing AI tools or diving into code, you'll find me watching Ne
 
 ⭐️ From [Github](https://github.com/rishikesh312/)
 
-⭐️ From [Linkedin](https://www.linkedin.com/in/rishikesh-n-878bb8a7/)
+⭐️ From [Linkedin](https://www.linkedin.com/in/rishikesh-narayanan-r-878bb8a7/)
