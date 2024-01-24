@@ -1,7 +1,6 @@
 # Hello there, I'm Rishikesh Narayanan! 👋 
 
 I'm a passionate AI developer, always curious about the intricacies of artificial intelligence, especially in crafting state-of-the-art AI tools. My journey has led me through a mosaic of programming languages, and I love exploring more each day! 🚀
-Your current phrase for the GitHub README profile is clear, but it could be enhanced for a more professional and engaging tone. Here's an improved version:
 
 🌐 **Explore My Work:** Visit [My Portfolio](https://rishikesh312.github.io/Portfolio/) to see a beta version of my latest projects and initiatives. Your feedback is welcome!
 
