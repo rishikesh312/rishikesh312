@@ -1,5 +1,4 @@
-<!-- Banner (copy these gifs into your own repo's /images folder for reliability) -->
-![Hello Coders](https://github.com/SP-XD/SP-XD/raw/main/images/hellocoders_rounded.gif?raw=true)
+
 
 <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true" width="380" align="right" alt="dev at work"/>
 
