@@ -1,139 +1,91 @@
+<!-- Banner (copy these gifs into your own repo's /images folder for reliability) -->
+![Hello Coders](https://github.com/SP-XD/SP-XD/raw/main/images/hellocoders_rounded.gif?raw=true)
+
+<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true" width="380" align="right" alt="dev at work"/>
+
+### 👋 Hey, I'm Rishikesh!
+
+🤖 **AI Engineer** — building agentic LLM pipelines with real evals<br>
+🎓 MSc Artificial Intelligence @ VU Amsterdam<br>
+📍 Netherlands 🇳🇱
+
+![Profile Views](https://komarev.com/ghpvc/?username=rishikesh312&style=flat&color=orange&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=googlechrome&logoColor=orange)](https://rishikesh312.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/Connect-grey?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rishikesh-narayanan-r-878bb8a7/)
+
+<br clear="right"/>
+
+---
+
+![Tools I use](https://img.shields.io/badge/-🚀%20Tools%20I%20use-orange) ![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-8A2BE2?style=flat)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logoColor=white)
+![Modal](https://img.shields.io/badge/Modal-7C3AED?style=flat)
+![Neo4j](https://img.shields.io/badge/Graph%20DBs-008CC1?style=flat&logo=neo4j&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+
+```python
+# tools_I_use, organized
+
+class Rishikesh(AIEngineer, GameDev):
+    my_stack = {
+        "languages":  {"Python", "Rust", "TypeScript", "C#", "SQL", "Bash"},
+        "ai_ml":      {"PyTorch", "HuggingFace", "LangChain", "llama.cpp", "MCP", "evals"},
+        "agents":     {"multi-agent pipelines", "RAG", "validation", "monitoring"},
+        "infra":      {"Docker", "Kubernetes", "Azure", "Modal", "Tailscale"},
+        "game_dev":   {"Unity", "procedural generation"},
+        "databases":  {"PostgreSQL", "Neo4j", "graph DBs"},
+    }
+```
+
+- <img src="https://github.com/SP-XD/SP-XD/raw/main/images/Developer.gif" width="30" /> I'm currently building **Towline** — a procedural endless-runner in Unity 🚲 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="25" />
+- <img src="https://github.com/SP-XD/SP-XD/raw/main/images/hyperkitty.gif?raw=true" width="30" /> I like **self-hosting everything** — local LLMs, homelab tools, custom CLIs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25" /> Currently leveling up my **Rust** 🦀
+- <img src="https://github.com/SP-XD/SP-XD/raw/main/images/message.gif?raw=true" width="30" /> Ask me about **agentic AI, LLM evals, self-hosting, or game dev**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High-Speed%20Train.png" width="25" /> Fun fact: my game is about **towing vehicles on a bicycle** to go faster — physics questions welcome
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="25" /> Off the clock: **Netflix series** and **digital drawing** 🎨
+
+<br/>
+
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   ██████╗ ██╗███████╗██╗  ██╗██╗                             │
-│   ██╔══██╗██║██╔════╝██║  ██║██║                             │
-│   ██████╔╝██║███████╗███████║██║                             │
-│   ██╔══██╗██║╚════██║██╔══██║██║                             │
-│   ██║  ██║██║███████║██║  ██║██║                             │
-│   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝                             │
-│                                                              │
-│   rishikesh@github:~$ AI Engineer · Agentic Systems Builder  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&lines=%24+whoami+--verbose;%3E+building+agentic+AI+pipelines;%3E+LLM+evaluation+%26+reliability;%3E+self-hosting+everything;%3E+making+a+Unity+game+after+hours)](https://git.io/typing-svg)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishikesh312&theme=nord_dark)](https://github.com/rishikesh312)
+[![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishikesh312&theme=nord_dark)](https://github.com/rishikesh312)
+[![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishikesh312&theme=nord_dark)](https://github.com/rishikesh312)
 
 </div>
 
-## `$ whoami`
+<details align="center">
+<summary><b>📊 More stats</b></summary>
+<br/>
 
-```bash
-USER:      Rishikesh Narayanan
-ROLE:      AI Engineer / Data Scientist
-EDUCATION: MSc Artificial Intelligence @ Vrije Universiteit Amsterdam
-LOCATION:  Netherlands 🇳🇱
-STATUS:    shipping multi-agent LLM systems for regulated industries
-```
+[![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikesh312&theme=nord_dark)](https://github.com/rishikesh312)
 
-## `$ cat about.txt`
+<img src="https://github-readme-streak-stats.demolab.com?user=rishikesh312&theme=nord_dark&hide_border=true" alt="streak"/>
 
-```text
-> I design agentic AI pipelines — multi-agent architectures with proper
-  evaluation, validation, and monitoring baked in from day one.
+</details>
 
-> Specialty: turning dense regulatory text into structured, verifiable
-  outputs. Reliability isn't a feature, it's the whole point.
+---
 
-> Chronic self-hoster: local LLM stacks (llama.cpp + GGUF on serverless
-  GPUs), custom Rust CLI tooling, homelab experiments.
-
-> After hours: building Towline 🚲 — a procedural endless-runner in Unity
-  where you tow vehicles to gain speed.
-
-> Philosophy: working code beats a perfect plan.
-```
-
-## `$ ls ./skills`
-
-```bash
-drwxr-xr-x  languages/
-```
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
-![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=00FF41)
-
-```bash
-drwxr-xr-x  ai-ml/
-```
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00FF41)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0D1117?style=flat-square&logo=huggingface&logoColor=00FF41)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=00FF41)
-![Claude](https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=anthropic&logoColor=00FF41)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=00FF41)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-0D1117?style=flat-square&logoColor=00FF41)
-![MCP](https://img.shields.io/badge/MCP-0D1117?style=flat-square&logoColor=00FF41)
-
-```bash
-drwxr-xr-x  infra/
-```
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00FF41)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=00FF41)
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=flat-square&logoColor=00FF41)
-![Modal](https://img.shields.io/badge/Modal-0D1117?style=flat-square&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF41)
-![Tailscale](https://img.shields.io/badge/Tailscale-0D1117?style=flat-square&logo=tailscale&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF41)
-
-```bash
-drwxr-xr-x  frameworks/
-```
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00FF41)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00FF41)
-![Unity](https://img.shields.io/badge/Unity-0D1117?style=flat-square&logo=unity&logoColor=00FF41)
-![Neo4j](https://img.shields.io/badge/Graph_DBs-0D1117?style=flat-square&logo=neo4j&logoColor=00FF41)
-
-## `$ ps aux | grep current`
-
-```bash
-PID    PROJECT                        STATUS
-────   ────────────────────────────   ─────────────
-1337   multi-agent LLM pipelines      ● running
-2048   self-hosted LLM stack          ● running
-0451   rust CLI dev tooling           ● running
-8080   towline (unity endless-runner) ● in dev 🚲
-0042   reasoning models & agent evals ● researching
-```
-
-## `$ git stats --graph`
+**Code Cycle**<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="28" alt="Broken system!"/> → <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="28" alt="It's working!"/> → <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="28" alt="It's working but you don't know how!"/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishikesh312&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&ring_color=00FF41" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh312&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=rishikesh312&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-
-</div>
-
-## `$ cat /etc/downtime.conf`
-
-```yaml
-offline_activities:
-  - netflix: "binging series"       # 📺
-  - drawing: "digital art"          # 🎨
-  - cycling: "research for towline" # 🚲
-```
-
-## `$ ping rishikesh --connect`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/rishikesh312/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/rishikesh-narayanan-r-878bb8a7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41)](https://rishikesh312.github.io/Portfolio/)
-
-```bash
-rishikesh@github:~$ exit
-# thanks for visiting — connection kept alive ⚡
-```
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/> **Thanks for stopping by — a ⭐ on a repo makes my day!**
 
 </div>
